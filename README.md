@@ -40,44 +40,39 @@ Email: zhoulai.fu@sunykorea.ac.kr
 
 ### Undergraduate TAs
 
-- **Jinho Hong** — CSE 113; email:
+- **Jinho Hong** — email:
   jinho.hong@stonybrook.edu
-- **Solbi Park** — CSE 113; email:
+- **Solbi Park** —  email:
   solbi.park@stonybrook.edu
-- **Hyeonsu Shim** — CSE 307; email:
-  hyeonsu.shim@stonybrook.edu
 
-### Graduate TA
-
-- **Jaeyong Jung** — Full TA, assigned 10 hours to CSE 113 and 10 hours to
-  CSE 307; email: jaeyong.jung@stonybrook.edu
+- **Jaeyong Jung** —
+  email: jaeyong.jung@stonybrook.edu
 
 ## Course Schedule
 
 - **Lectures:** Monday and Wednesday, 10:30–11:50 AM
 - **Recitation:** Tuesday, 12:00–12:55 PM
-- **Homework:** Announced during Wednesday's lecture and due the following
+- **Homework:** Announced during Wednesday and due the following
   Wednesday by 11:59 PM (KST)
 - **Instructor office hours:** Monday and Wednesday, 1:25–2:25 PM (Room C521)
-- **TA office hours:** TBA
 - **Final Exam:** December 14, 9:00–11:30 AM
 
 ### Weekly Topics and Assessments
 
-| Week | Date | Meeting | Topic or assessment | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | August 31 | Lecture | Course overview |  |
-| 1 | September 1 | Recitation | Final exam format and expectations |  |
-| 1 | September 2 | Lecture | Propositional logic | Homework 1 announced |
-| 2 | September 7 | Lecture | Propositional logic |  |
-| 2 | September 8 | Recitation | Quiz |  |
-| 2 | September 9 | Lecture | Propositional logic | Homework 2 announced; Homework 1 due |
-| 3 | September 14 | Lecture | Propositional logic |  |
-| 3 | September 15 | Recitation | Quiz |  |
-| 3 | September 16 | Lecture | Propositional logic | Homework 3 announced; Homework 2 due |
-| 4 | September 21 | Lecture | Predicate logic |  |
-| 4 | September 22 | Recitation | Quiz |  |
-| 4 | September 23 | Lecture | Predicate logic | Homework 4 announced; Homework 3 due |
+| Week | Date | Topic |
+| --- | --- | --- |
+| 1 | August 31 | Lecture: Course overview |
+| 1 | September 1 | Recitation: Final exam format and expectations |
+| 1 | September 2 | Lecture: Propositional logic |
+| 2 | September 7 | Lecture: Propositional logic |
+| 2 | September 8 | Recitation: Quiz |
+| 2 | September 9 | Lecture: Propositional logic |
+| 3 | September 14 | Lecture: Propositional logic |
+| 3 | September 15 | Recitation: Quiz |
+| 3 | September 16 | Lecture: Propositional logic |
+| 4 | September 21 | Lecture: Predicate logic |
+| 4 | September 22 | Recitation: Quiz |
+| 4 | September 23 | Lecture: Predicate logic |
 
 ## Zoom Link
 
