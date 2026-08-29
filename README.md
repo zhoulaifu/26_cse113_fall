@@ -40,11 +40,11 @@ Email: zhoulai.fu@sunykorea.ac.kr
 
 ### Undergraduate TAs
 
-- **Jinho Hong** — CSE 113, credit-bearing TA; email:
+- **Jinho Hong** — CSE 113; email:
   jinho.hong@stonybrook.edu
-- **Solbi Park** — CSE 113, credit-bearing TA; email:
+- **Solbi Park** — CSE 113; email:
   solbi.park@stonybrook.edu
-- **Hyeonsu Shim** — CSE 307, credit-bearing TA; email:
+- **Hyeonsu Shim** — CSE 307; email:
   hyeonsu.shim@stonybrook.edu
 
 ### Graduate TA
@@ -54,11 +54,11 @@ Email: zhoulai.fu@sunykorea.ac.kr
 
 ## Course Schedule
 
-- **Lectures:** Tuesday and Thursday, 3:30–4:50 PM (Room B207)
-- **Recitation:** Tuesday, 5:00–5:55 PM (Room B207)
+- **Lectures:** Monday and Wednesday, 10:30–11:50 AM
+- **Recitation:** Tuesday, 12:00–12:55 PM
 - **Homework:** Assigned each Thursday; due the following Thursday by 11:59 PM
   (KST)
-- **Office hours:** TBA
+- **Instructor office hours:** Monday and Wednesday, 1:25–2:25 PM (Room C521)
 - **TA office hours:** TBA
 - **Final Exam:** December 14, 9:00–11:30 AM
 
