@@ -82,6 +82,8 @@ https://stonybrook.zoom.us/j/99671076796?pwd=TGFuZ1lzSXpnSWlpMDB2a2tCRmozUT09
 
 - **Homework:** 10%
 - **Attendance:** 5%
+- **Bonus:** Students who consistently participate or provide constructive
+  feedback will receive a bonus of 0.5 or 1 point.
 - **Quizzes:** 20%
 - **Midterm:** 30%
 - **Final exam:** 35%
