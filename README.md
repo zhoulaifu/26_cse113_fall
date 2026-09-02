@@ -34,19 +34,23 @@ Epp, 1st edition
 ## Instructor
 
 **Zhoulai Fu**  
-Email: zhoulai.fu@sunykorea.ac.kr
+Email: zhoulai.fu@sunykorea.ac.kr  
+Office hours: Monday and Wednesday, 1:25–2:25 PM (Room C521)
 
 ## Teaching Assistants
 
-### Undergraduate TAs
+**Jaeyong Jung**  
+Email: jaeyong.jung@stonybrook.edu  
+Office hours: Monday and Wednesday, 7:50–10:20 AM; Friday, 9:00 AM–12:00 PM
 
-- **Jinho Hong** — email:
-  jinho.hong@stonybrook.edu
-- **Solbi Park** —  email:
-  solbi.park@stonybrook.edu
+**Solbi Park**  
+Email: solbi.park@stonybrook.edu  
+Office hours: Monday and Wednesday, 3:30–6:00 PM; Friday, 2:00–5:00 PM
 
-- **Jaeyong Jung** —
-  email: jaeyong.jung@stonybrook.edu
+**Jinho Hong**  
+Email: jinho.hong@stonybrook.edu  
+Office hours: Tuesday, 10:25–11:45 AM and 5:00–6:40 PM; Wednesday,
+5:00–6:40 PM; Thursday, 10:25–11:45 AM and 5:00–7:00 PM
 
 ## Course Schedule
 
@@ -54,7 +58,6 @@ Email: zhoulai.fu@sunykorea.ac.kr
 - **Recitation:** Tuesday, 12:00–12:55 PM
 - **Homework:** Announced during Wednesday and due the following
   Wednesday by 11:59 PM (KST)
-- **Instructor office hours:** Monday and Wednesday, 1:25–2:25 PM (Room C521)
 - **Final Exam:** December 14, 9:00–11:30 AM
 
 ### Weekly Topics and Assessments
@@ -164,9 +167,9 @@ Policy Guidance](https://communitystandards.stanford.edu/generative-ai-policy-gu
 
 ## Office Hours Policy
 
-- The instructor's office hours will be announced later.
-- Availability outside office hours is not guaranteed, and the instructor may
-  respectfully decline appointment requests outside those hours.
+- Instructor and TA office hours are listed above.
+- Availability outside office hours is not guaranteed, and the instructor or TAs
+  may respectfully decline appointment requests outside those hours.
 
 ## Disability Support Services (DSS) Statement
 
