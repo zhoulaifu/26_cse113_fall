@@ -90,7 +90,7 @@ For each argument below, determine whether it is valid. If it is valid, write *V
 1. I like Bulgogi.
 2. Therefore, I like Bibimbap and Bulgogi.
 
-## Exercise 3 (10 points)
+## Exercise 3 (20 points)
 
 Use inference rules to show that the following argument is valid. You may provide a list of statements in the following form: From “...,” we have “...” by the inference rule “...”.
 
