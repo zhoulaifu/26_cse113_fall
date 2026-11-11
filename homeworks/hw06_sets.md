@@ -2,18 +2,18 @@
 
 ## Exercise 1 (30 points)
 
-1. How many elements are there in the power set of $\{1, 2, 3, 42\}$? Your answer must be an integer.
+1. How many elements are there in the power set of $\lbrace 1, 2, 3, 42 \rbrace$? Your answer must be an integer.
 
-2. Let $A = \{1, 2, 3\}$, $B = \{x, y\}$, and $C = \{\text{hello}, \text{world}\}$. How many elements are there in $A \times B \times C$? Your answer must be an integer.
+2. Let $A = \lbrace 1, 2, 3 \rbrace$, $B = \lbrace x, y \rbrace$, and $C = \lbrace \text{hello}, \text{world} \rbrace$. How many elements are there in $A \times B \times C$? Your answer must be an integer.
 
 3. Which of the following statements is correct? **Choose a single correct answer.** Here, $\mathbb{Z}$ denotes the set of integers.
 
-   - (a) $\{0\} = \emptyset$.
-   - (b) $\{1\} \subseteq \mathbb{Z}$.
-   - (c) $\{2n - 2 \mid n \in \mathbb{Z}\} = \mathbb{Z}$.
-   - (d) $\{5n + 6m \mid n, m \in \mathbb{Z}\} \ne \mathbb{Z}$.
+   - (a) $\lbrace 0 \rbrace = \emptyset$.
+   - (b) $\lbrace 1 \rbrace \subseteq \mathbb{Z}$.
+   - (c) $\lbrace 2n - 2 \mid n \in \mathbb{Z} \rbrace = \mathbb{Z}$.
+   - (d) $\lbrace 5n + 6m \mid n, m \in \mathbb{Z} \rbrace \ne \mathbb{Z}$.
 
-4. Let $\mathbb{N} = \{1, 2, \ldots\}$ denote the set of positive integers. For each $n \in \mathbb{N}$, let $A_n = \{-2n, 0, 2n\}$. Determine the following sets:
+4. Let $\mathbb{N} = \lbrace 1, 2, \ldots \rbrace$ denote the set of positive integers. For each $n \in \mathbb{N}$, let $A_n = \lbrace -2n, 0, 2n \rbrace$. Determine the following sets:
 
    - (a) $\displaystyle \bigcup_{i \in \mathbb{N}} A_i$
    - (b) $\displaystyle \bigcap_{i \in \mathbb{N}} A_i$
